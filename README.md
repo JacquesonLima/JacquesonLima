@@ -4,9 +4,9 @@
 - 📫 Contate-me no email: jaqsulima@gmail.com
 
 <div align="center">
-  <a href="https://github.com/jacquesonlima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacquesonlima&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquesonlima&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/JacquesonLima">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JacquesonLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesonLima&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jacqueson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
