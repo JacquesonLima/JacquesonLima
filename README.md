@@ -1,6 +1,6 @@
 ### Olá! Eu sou Jacqueson de Lima, estudante de programação 👋
 
-- 🌱 Estudando Python, Javascript, CSS e HTML
+- 🌱 Graduante em Sistemas de Informação
 - 📫 Contate-me no email: jaqsulima@gmail.com
 
 <div align="center">
