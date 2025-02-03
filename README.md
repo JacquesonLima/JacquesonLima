@@ -99,7 +99,7 @@ Me chamo Jacqueson de Lima Benevides, tenho 23 anos e sou natural de Belo Jardim
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 4px;" 
     src="https://github-readme-stats.vercel.app/api?username=JacquesonLima&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
   />
 
