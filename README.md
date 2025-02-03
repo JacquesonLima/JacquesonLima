@@ -1,25 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Jacqueson de Lima
 
 **`Desenvolvedor FullStack`**
 
 Me chamo Jacqueson de Lima Benevides, tenho 23 anos e sou natural de Belo Jardim - PE. Concluí o ensino médio na ETEEMM, com o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação na UFRPE. Sou apaixonado por tecnologia e compartilho meu conhecimento através de projetos pessoais, onde transformo minhas ideias e aproveito para praticar e aprender coisas novas.
-
-<p align="left">
-    <a href="https://www.instagram.com/jacquesonlima/">
-        <img 
-            alt="meu perfil no instagram" 
-            title="Me siga no instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/jacquesonlima/">
-        <img 
-            alt="meu perfil do linkedin" 
-            title="Conecte-se comigo no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"
-        />
-    </a> 
-</p>
 
 ---
 
