@@ -111,4 +111,8 @@ Me chamo Jacqueson de Lima Benevides, tenho 23 anos e sou natural de Belo Jardim
   />
 </p>
 
-![snake animation](https://github.com/<JacquesonLima>/<JacquesonLima>/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  
+  ![Snake animation](https://github.com/JacquesonLima/JacquesonLima/blob/output/github-contribution-grid-snake.svg)
+
+</div>
