@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jacqueson de Lima Benevides, tenho 23 anos e sou natural de Belo Jardim - PE. Concluí o ensino médio na ETEEMM, com o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação na UFRPE. Sou apaixonado por tecnologia e compartilho meu conhecimento através de projetos pessoais, onde transformo minhas ideias e aproveito para praticar e aprender coisas novas.
+Me chamo Jacqueson de Lima Benevides, sou Técnico formado em Análise e Desenvolvimento de Sistemas. Atualmente estou cursando Bacharelado em Sistemas de Informação na UFRPE, me considero um entusiasta da tecnologia e compartilho meu conhecimento através de projetos pessoais, onde transformo minhas ideias e ponho em prática todo meu conhecimento.
 
 ---
 
