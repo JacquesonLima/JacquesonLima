@@ -89,9 +89,6 @@ Me chamo Jacqueson de Lima Benevides, sou Técnico formado em Análise e Desenvo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
