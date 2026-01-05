@@ -92,17 +92,6 @@ Me chamo Jacqueson de Lima Benevides, sou Técnico formado em Análise e Desenvo
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 4px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JacquesonLima&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
